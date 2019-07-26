@@ -1,0 +1,17 @@
+{
+  "name": "json-diff-percent",
+  "version": "1.0.0",
+  "description": "Calculates how similar two json objects are to one another and returns a numeric score.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Nicholas Mansfield",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
